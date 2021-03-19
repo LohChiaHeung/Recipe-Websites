@@ -5,6 +5,7 @@ Recipe Websites . Assignment2_SEMA2021
     <head>
         <title>   Recipe Restaurant Ali </title>
         <link rel="stylesheet" href="RecipeWebsites.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
         <h1>🥫🍲Recipe Restaurant Ali😋😋</strong></h1>
